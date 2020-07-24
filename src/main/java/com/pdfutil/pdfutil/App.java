@@ -11,7 +11,8 @@ import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
 /**
- * Hello world!
+ * 
+ * @author https://github.com/rohitsharma23
  *
  */
 public class App {
